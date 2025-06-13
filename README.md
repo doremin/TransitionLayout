@@ -26,7 +26,9 @@ But by applying log2(scale), we turn it into:
 
 ## LINE vs This Project
 
-**LINE**
+### LINE
+
 ![LINE](/resources/line.gif)
-**This Project**
+
+### This Project
 ![DEMO](/resources/demo.gif)
