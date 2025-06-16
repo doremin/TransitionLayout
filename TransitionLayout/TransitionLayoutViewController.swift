@@ -5,7 +5,7 @@ final class TransitionLayoutViewController: UIViewController {
     // MARK: - Properties
 
     private lazy var layouts: [UICollectionViewFlowLayout] = {
-        [17, 12, 9, 7, 5, 3, 1].map { makeFlowLayout(columns: $0) }
+        [17, 11, 9, 7, 5, 3, 1].map { makeFlowLayout(columns: $0) }
     }()
     private var currentLayoutIndex = 2
     private var interactiveLayout: UICollectionViewTransitionLayout?
